@@ -1,0 +1,27 @@
+{
+  "name": "ip-filtering",
+  "description": "A real-time ip filtering",
+  "version": "0.0.1",
+  "author": "Pierre-Olivier Bouteau <bouteau.pierreolivier@gmail.com>",
+  "private": false,
+  "keywords": [
+    "middleware",
+    "ipfilter",
+    "ipfiltering",
+    "ip filter",
+    "ip filtering",
+    "ipban",
+    "ip ban"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pierreolivier/ip-filtering.git"
+  },
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "dependencies": {
+  },
+  "license": "MIT"
+}
