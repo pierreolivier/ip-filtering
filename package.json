@@ -1,7 +1,7 @@
 {
   "name": "ip-filtering",
   "description": "A real-time ip filtering",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Pierre-Olivier Bouteau <bouteau.pierreolivier@gmail.com>",
   "private": false,
   "keywords": [

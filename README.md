@@ -3,7 +3,7 @@ ip filtering
 a real-time ip filtering for express apps
 
 ## Version
-0.0.1
+0.0.3
 
 ## Installation
 
@@ -29,6 +29,10 @@ ipfiltering.failure(req);
 ```
 
 ## Changelog
+
+0.0.3
+
+* an already banned ip extends his ban time on banned next request
 
 0.0.2
 
