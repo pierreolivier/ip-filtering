@@ -24,10 +24,16 @@ app.use(ipfiltering.middleware());
 ```javascript
 var ipfiltering = require('ip-filtering');
 
-ipfiltering.failure('ip address');
+ipfiltering.failure('8.8.8.8');
+ipfiltering.failure(req);
 ```
 
 ## Changelog
+
+0.0.2
+
+* failure function accept req objects
+
 
 0.0.1
 
